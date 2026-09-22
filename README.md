@@ -8,7 +8,7 @@ A Kubernetes Deployment is used to manage multiple replicas of the application, 
 
 A Kubernetes LoadBalancer Service is used to expose the application externally.
 
-The project also demonstrates **Rolling Updates, rollout history, and rollback** by changing the container image and managing different versions of the application.
+The project also demonstrates **Rolling Updates, rollout history, and rollback** by changing the container image and managing different versions of the application..
 
 ---
 
